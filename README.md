@@ -12,6 +12,6 @@ integra em um workflow baseado em projeto.
 
 # Vídeos disponíveis
 
-1. Odysee
+1. Odysee: https://odysee.com/$/list/9e36d9361880afdc4126780ba65d70dc21312d44
 2. Youtube: https://www.youtube.com/watch?v=wE5fWsPHcps&list=PL-Za7XKom2ZU4u46WM87QWvanXBl1Wb2q
 
